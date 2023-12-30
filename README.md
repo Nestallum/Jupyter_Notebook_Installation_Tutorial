@@ -16,7 +16,7 @@ To use Jupyter Notebook, you'll need Python installed on your machine.
 
 - Open a terminal (Command Prompt on Windows, Terminal on macOS/Linux). Type the following command to check that Python is installed correctly:
 
-        python --version
+      python --version
    
 You should see the version of Python you just installed.
 
@@ -24,11 +24,11 @@ You should see the version of Python you just installed.
 
 - To update pip, use the following command:
 
-        python -m pip install --upgrade pip
+      python -m pip install --upgrade pip
 
 - To check the version, use:
 
-        pip --version
+      pip --version
   
 Now that Python is installed, you're ready to use the pip command to install Jupyter Notebook.
 
@@ -50,7 +50,7 @@ To launch Jupyter Notebook, you can either click on the Jupyter Notebook app, an
 
 Alternatively, you can open a terminal and enter the following command:
 
-        jupyter notebook
+    jupyter notebook
         
 ## Jupyter Notebook without Anaconda
 Alternatively, you have the option to install Jupyter Notebook independently without relying on Anaconda.
