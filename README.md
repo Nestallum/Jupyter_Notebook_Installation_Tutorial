@@ -49,31 +49,31 @@ To launch Jupyter Notebook, you can either click on the Jupyter Notebook app, an
 
 Alternatively, you can open a terminal and enter the following command:
 
-        >jupyter notebook
+        jupyter notebook
         
 ## Jupyter Notebook without Anaconda
 Alternatively, you have the option to install Jupyter Notebook independently without relying on Anaconda.
 
 - Install the classic Jupyter Notebook with:
 
-      >pip install jupyter
+      pip install jupyter
   
 This will install Jupyter Notebook on your system, allowing you to use it without the need for the entire Anaconda distribution.
 
 - To run the notebook:
 
-      >jupyter notebook
+      jupyter notebook
 
 ## Jupyter Notebook Themes
 Jupyter Notebook has a default white theme, but you can easily change it using the command prompt.
 
 - To install the provided themes:
 
-      >pip install jupyterthemes
+      pip install jupyterthemes
 
 - Once done, you can check them by using:
 
-      >jt -l
+      jt -l
   
 It should show you the current availables themes:
 <p align="center">
@@ -82,7 +82,7 @@ It should show you the current availables themes:
 
 - To select a theme, use the following command:
 
-      >jt -t [theme_name]
+      jt -t [theme_name]
 
   
 You can now take full advantage of Jupyter Notebook and its beautiful theme! 👍
