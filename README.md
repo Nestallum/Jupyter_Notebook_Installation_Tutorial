@@ -6,7 +6,7 @@ This repository aims to simplify the process of downloading and installing Jupyt
 To use Jupyter Notebook, you'll need Python installed on your machine.
 
 ### Download Python:
--  Go to the official Python website: https://www.python.org/downloads/
+- Go to the official Python website: https://www.python.org/downloads/
 
 -  Select the Python version most suitable for your operating system (Windows, macOS, or Linux). It's recommended to choose the latest version unless there are specific reasons for using an older version.
 
@@ -14,7 +14,7 @@ To use Jupyter Notebook, you'll need Python installed on your machine.
 
 ### Verify the Installation:
 
--  Open a terminal (Command Prompt on Windows, Terminal on macOS/Linux). Type the following command to check that Python is installed correctly:
+- Open a terminal (Command Prompt on Windows, Terminal on macOS/Linux). Type the following command to check that Python is installed correctly:
 
         python --version
    
@@ -22,11 +22,11 @@ You should see the version of Python you just installed.
 
 ### Update pip (Python package manager):
 
--  Type the following command to update pip:
+- Type the following command to update pip:
 
         python -m pip install --upgrade pip
 
-- Type the following command to check your pip version:
+- To check the version:
 
         pip --version
   
