@@ -85,4 +85,4 @@ It should show you the current availables themes:
       >jt -t [theme_name]
 
   
-You can now take full advantage of Jupyter Notebook and its beautiful theme 👍
+You can now take full advantage of Jupyter Notebook and its beautiful theme! 👍
