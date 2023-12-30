@@ -22,11 +22,11 @@ You should see the version of Python you just installed.
 
 ### Update pip (Python package manager):
 
-- Type the following command to update pip:
+- To update pip, use the following command:
 
         python -m pip install --upgrade pip
 
-- To check the version:
+- To check the version, use:
 
         pip --version
   
