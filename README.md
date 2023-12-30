@@ -25,15 +25,22 @@ You should see the version of Python you just installed.
 -  Type the following command to update pip:
 
         python -m pip install --upgrade pip
+
+- Type the following command to check your pip version:
+
+        pip --version
+  
 Now that Python is installed, you're ready to use the pip command to install Jupyter Notebook.
 
 ## Anaconda
--  Download Anaconda using the following link: 
+Before installing Jupyter Notebook, download Anaconda using the following link: 
 https://www.anaconda.com/download
 
 ## Jupyter Notebook
 Once Anaconda is installed on your machine, open an Anaconda prompt:
+<p align="center">
 <img src="https://github.com/Nestallum/Jupyter_Notebook_Installation/assets/152424908/badea8da-2521-4729-905f-9e83b84b8dcb" width=500>
+</p>
 
 ### Installation
 - Install the classic Jupyter Notebook with:
@@ -54,8 +61,11 @@ Jupyter Notebook has a default white theme, but you can easily change it using t
 - Once done, you can check them by using:
 
       jt -l
-
+  
+It should show you the current availables themes:
+<p align="center">
 <img src="https://github.com/Nestallum/Jupyter_Notebook_Installation/assets/152424908/b23dbc60-38b2-44ea-bf1d-ad8c18fdee67" width=350>
+</p>
 
 - To select a theme, use the following command:
 
