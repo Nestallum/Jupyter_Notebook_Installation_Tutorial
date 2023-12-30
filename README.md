@@ -1,6 +1,6 @@
 # Jupyter Notebook Installation Tutorial
 
-This repository aims to simplify the process of downloading and installing Jupyter Notebook, an interactive computing platform in the Python language. Whether you are a beginner or an experienced user, our detailed instructions guide you through the setup of your Jupyter Notebook environment. The guide covers both Anaconda and standalone installations. Additionally, I provide instructions on how to apply themes to enhance the appearance of your Jupyter Notebook interface.
+This repository aims to simplify the process of downloading and installing Jupyter Notebook, an interactive computing platform in the Python language. Whether you are a beginner or an experienced user, those detailed instructions guide you through the setup of your Jupyter Notebook environment. The guide covers both Anaconda and standalone installations. Additionally, I provide instructions on how to apply themes to enhance the appearance of your Jupyter Notebook interface.
 
 ## Python
 To use Jupyter Notebook, you'll need Python installed on your machine.
