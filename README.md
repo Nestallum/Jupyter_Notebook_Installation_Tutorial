@@ -33,7 +33,7 @@ You should see the version of Python you just installed.
 Now that Python is installed, you're ready to use the pip command to install Jupyter Notebook.
 
 ## Anaconda
-To get Jupyter Notebook, you can install Anaconda, which includes the full distribution, including tools like **Jupyter Notebook**. However, once Anaconda is installed, it provides additional utilities like Anaconda Navigator for managing virtual environments, packages, and other tools included in the distribution:
+To get Jupyter Notebook, simply install Anaconda, which comes with the complete distribution, inclusive of essential tools such as Jupyter Notebook. Once Anaconda is installed, you'll also benefit from additional utilities like Anaconda Navigator, facilitating the management of virtual environments, packages, and other tools integrated into the distribution.
 -  Go to the official Anaconda website: https://www.anaconda.com/download
 -  Download the installer and follow the instructions to install Anaconda on your machine.
 
