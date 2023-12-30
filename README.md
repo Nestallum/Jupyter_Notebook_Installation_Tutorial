@@ -41,8 +41,9 @@ To get Jupyter Notebook, simply install Anaconda, which comes with the complete 
 
 After installing Anaconda, you have access to a variety of tools:
 <p align="center">
-<img src="https://github.com/Nestallum/Jupyter_Notebook_Installation/assets/152424908/b7b6e36a-010a-4d64-b8dc-35cd53982401">
+<img src="https://github.com/Nestallum/Jupyter_Notebook_Installation_Tutorial/assets/152424908/15f4142e-33cf-4257-8378-43160539b0ee" width=650>
 </p>
+
 
 ### Launch Jupyter Notebook:
 To launch Jupyter Notebook, you can either click on the Jupyter Notebook app, and it will open in your browser automatically. 
