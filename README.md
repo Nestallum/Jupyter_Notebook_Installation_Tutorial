@@ -51,7 +51,9 @@ Alternatively, you can open a terminal and enter the following command:
 Alternatively, you have the option to install Jupyter Notebook independently without relying on Anaconda. Using a command terminal, simply execute the following command
 - Install the classic Jupyter Notebook with:
 
-      >pip install jupyter notebook
+      >pip install jupyter
+  
+This will install Jupyter Notebook on your system, allowing you to use it without the need for the entire Anaconda distribution.
 
 - To run the notebook:
 
