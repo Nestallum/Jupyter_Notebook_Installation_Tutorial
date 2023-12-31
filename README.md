@@ -48,7 +48,7 @@ After installing Anaconda, you have access to a variety of tools:
 ### Launch Jupyter Notebook:
 To launch Jupyter Notebook, you can click on the Jupyter Notebook app, and it will open in your browser automatically. 
 
-Alternatively, you can open a terminal and enter the following command:
+Alternatively, you can open an **Anaconda terminal** and enter the following command:
 
     jupyter notebook
         
